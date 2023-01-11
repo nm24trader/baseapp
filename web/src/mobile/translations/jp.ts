@@ -77,10 +77,10 @@ export const jp = {
     'page.mobile.profileLinks.main.activity': 'Account activity',
     'page.mobile.profileLinks.main.apiKeys': 'My API keys',
 
-    'page.mobile.profileLinks.settings.language': 'Language',
-    'page.mobile.profileLinks.settings.theme': 'Theme',
+    'page.mobile.profileLinks.settings.language': '言語',
+    'page.mobile.profileLinks.settings.theme': 'テーマ',
 
-    'page.mobile.profileLinks.additional.referral': 'Referral Link',
+    'page.mobile.profileLinks.additional.referral': 'リファラルリンク',
     'page.mobile.profileLinks.link.referral.success': 'Successfully copied!',
 
     'page.mobile.profileLinks.link.verification': 'Level {level}',
@@ -95,8 +95,8 @@ export const jp = {
 
     'page.mobile.profile.accountActivity.title': 'Account activity',
     'page.mobile.profile.apiKeys.title': 'My API keys',
-    'page.mobile.profile.theme.title': 'Theme',
-    'page.mobile.profile.language.title': 'Language',
+    'page.mobile.profile.theme.title': 'テーマ',
+    'page.mobile.profile.language.title': '言語',
     'page.mobile.profile.changePassword.title': 'Change password',
 
     'page.mobile.profile.accountActivity.action': 'Action',
