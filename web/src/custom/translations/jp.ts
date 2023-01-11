@@ -3,12 +3,12 @@ import { LangType } from '../../translations';
 import { nationalitiesNames } from '../../translations/nationalities';
 
 export const jp: LangType = {
-    'page.header.navbar.signIn': 'Войти',
+    'page.header.navbar.signIn': 'サインイン',
     'page.header.navbar.quick.exchange': 'Quick exchange',
-    'page.header.navbar.trade': 'Биржа',
-    'page.header.navbar.wallets': 'Кошельки',
+    'page.header.navbar.trade': 'トレード',
+    'page.header.navbar.wallets': 'ウォレット',
     'page.header.navbar.openOrders': 'Ордера',
-    'page.header.navbar.history': 'История',
+    'page.header.navbar.history': '履歴',
     'page.header.navbar.api': 'API Документация',
     'page.header.navbar.internal.transfer': 'Internal transfer',
 
